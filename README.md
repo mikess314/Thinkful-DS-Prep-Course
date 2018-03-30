@@ -1,1 +1,3 @@
 # Thinkful-DS-Prep-Course
+sample text
+repository for ...
